@@ -94,5 +94,6 @@
     <a class="py-2 d-none d-md-inline-block" href="/contact.php">Contact</a>
     <a class="py-2 d-none d-md-inline-block" href="/title.php">Test sans titre</a>
     <a class="py-2 d-none d-md-inline-block" href="/jeu.php">Jeu</a>
+    <a class="py-2 d-none d-md-inline-block" href="/glace.php">Glace</a>
     </nav>
 </header>
